@@ -1,0 +1,50 @@
+/*
+	Cascading Style Sheet
+	Style
+*/
+html, body{
+	height: 100%;
+	background-color: #396f87;
+}
+strong{
+ color: #e16a22;
+ font-weight:normal;
+}
+cite{
+font-size: 13px;
+font-style:normal;
+letter-spacing:1px;	
+}
+body{
+	
+	font-family: Arial, 微軟正黑體;
+	*font-family: 微軟正黑體;
+	margin: 0;
+	font-size: 16px;
+	letter-spacing: 0.2em;
+	line-height: 1.6;
+}
+img{
+	border: 0;
+}
+h2{
+	margin: 0;
+	line-height: 1;
+	color: #6699cc;
+	font-size: 25px;
+	
+}
+h3{
+	margin: 0;
+	line-height: 1;
+	padding: 0;
+	padding-top:8px;
+	padding-left:8px;
+	background-image:url(../images/bg2_title.png);
+	background-repeat: no-repeat;
+	width: 800px;
+	height: 33px;
+	color: #ffffff;
+	font-size:20px;
+	
+}
