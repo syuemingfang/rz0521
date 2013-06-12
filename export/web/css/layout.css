@@ -136,7 +136,29 @@
 	width: 100%;
 }
 /* List */
-
+.list_product{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;	
+}
+.list_product li{
+	float:left;
+	width:160px;
+	margin-top:20px;
+	text-align:center;
+	border-bottom:1px #3490e9 solid;
+}
+.list_product li .photo{
+	width:100%;
+	height:80px;
+	border-bottom:1px #3490e9 solid;
+}
+.list_product li .detail{
+	width:100%;
+	height:20px;
+	padding:5px;
+		padding-bottom:8px;
+}
 .list_menu {
 	background-color: #ffffff;
 	overflow: hidden;
