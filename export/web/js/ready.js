@@ -2,7 +2,7 @@
 define(["ready", "jquery"], function() {
 	$(document).ready(function(){
 		// Water //
-		if($('.wrap_bg_water-main').length > 0) water($('.wrap_bg_water-main'));
+		//if($('.wrap_bg_water-main').length > 0) water($('.wrap_bg_water-main'));
 		
 		if($('.logo').length > 0)logoEffect($('.logo'));
 		
