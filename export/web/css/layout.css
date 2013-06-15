@@ -43,7 +43,6 @@
 .wrap_bg {
 	position: absolute;
 	width: 100%;
-	min-width: 1060px;
 	top: 0;
 	left: 0;
 	height: 850px;
@@ -55,7 +54,6 @@
 	top: 0px;
 	left: 0;
 	width: 100%;
-		min-width: 1060px;
 	height: 850px;
 	background-image: url(../images/bg_sky.png);
 	background-position: top center;
@@ -81,7 +79,6 @@
 	top: 0;
 	left: 0;
 	width: 100%;
-		min-width: 1060px;
 	height: 850px;
 	overflow: hidden;
 }
