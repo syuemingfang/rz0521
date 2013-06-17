@@ -4,7 +4,7 @@ define(["ready", "jquery"], function() {
 		// Water //
 		//if($('.wrap_bg_water-main').length > 0) water($('.wrap_bg_water-main'));
 		
-		if($('.logo').length > 0)logoEffect($('.logo'));
+		//if($('.logo').length > 0) logoEffect($('.logo'));
 		
 		// Light //
 		if($('.wrap_light').length > 0) light($('.wrap_light'));
